@@ -1,0 +1,11 @@
+Package: mmiki
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Mikielewicz Magdalena
+Maintainer: Mikielewicz Magdalena <01140684@pw.edu.pl>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: Open source
+Encoding: UTF-8
+LazyData: true

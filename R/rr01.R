@@ -8,5 +8,5 @@
 #' @keywords datasets RR interval
 #' @examples
 #' data(rr01)
-#' plot(rr01$RR)
+#' plot(rr01$RR, type='line')
 "rr01"
